@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name PTT-USB-Cable-rescue)(type Legacy)(uri ${KIPRJMOD}/PTT-USB-Cable-rescue.lib)(options "")(descr ""))
+)
