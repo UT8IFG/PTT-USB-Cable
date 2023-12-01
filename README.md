@@ -1,5 +1,7 @@
 # USB PTT Cable
 
+![USB PTT Cable](https://github.com/UT8IFG/PTT-USB-Cable/raw/main/photo/usb-ptt-cable.jpg)
+
 The USB PTT Cable is a simple galvanically isolated USB-PTT interface for amateur radio equipment. It was originally designed as a USB-PTT interface for the [PA Controller](https://vhfdesign.com/pas/pa-controller.html) (manufactured by VHFDesing.com) to allow operation in digital modes. 
 
 The basic idea is to use a plastic housing and a 4-wire cable of USB-UART converters sold on Aliexpress and other marketplaces as parts of the USB PTT Cable. This makes it easier and cheaper to build the device at home.
@@ -16,6 +18,8 @@ The board is designed for hand soldering and contains 0805 size passive SMD comp
 The minimum hole diameter is 0.3mm to reduce the final production cost in some PCB factories.
 
 The board layout allows you to make the PCB at home using the TTM (Toner Transfer Method). In this case, it will be more convenient to drill a single large hole on the ground polygon of the CP2102 chip. The board layout also has a via under the optocoupler package.
+
+<img src="https://github.com/UT8IFG/PTT-USB-Cable/raw/main/photo/pcb-assembled-top.jpg" width="49%"/> <img src="https://github.com/UT8IFG/PTT-USB-Cable/raw/main/photo/pcb-assembled-bottom.jpg" width="49%"/>
 
 ## Why CP2102?
 
